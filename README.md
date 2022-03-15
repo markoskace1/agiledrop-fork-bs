@@ -6,5 +6,5 @@
 </p>
 
 <p>
-I've added some minor changes like animations just for fun. I apologise for the code being a little messy, as I was battling with some layouts and their positions to make the site look as close as the original.
+I've added some minor changes like animations just for fun. I apologise for the code being a little messy, as I was battling with some problems with layouts and their positions in order to make the site look as close as the original.
 </p>
